@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0b5cf9ab-63f4-4a93-9d67-0136d0c551fe" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/CharacterMover.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/CharacterMover.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.DGM2670/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.DGM2670/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.DGM2670/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.DGM2670/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,10 +13,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/CharacterMover.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1005">
+            <state relative-caret-position="945">
               <caret line="67" column="5" selection-start-line="67" selection-start-column="5" selection-end-line="67" selection-end-column="5" />
               <folding>
                 <marker date="1599714581254" expanded="true" signature="112:1658" ph="{...}" />
@@ -31,6 +32,41 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/FloatData.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="570">
+              <caret line="42" selection-start-line="42" selection-end-line="42" />
+              <folding>
+                <marker date="1599971964157" expanded="true" signature="79:761" ph="{...}" />
+                <marker date="1599971964157" expanded="true" signature="184:221" ph="{...}" />
+                <marker date="1599971964157" expanded="true" signature="264:300" ph="{...}" />
+                <marker date="1599971964157" expanded="true" signature="356:500" ph="{...}" />
+                <marker date="1599971964157" expanded="true" signature="385:428" ph="{...}" />
+                <marker date="1599971964157" expanded="true" signature="441:494" ph="{...}" />
+                <marker date="1599971964157" expanded="true" signature="563:759" ph="{...}" />
+                <marker date="1599971964157" expanded="true" signature="599:652" ph="{...}" />
+                <marker date="1599971964157" expanded="true" signature="665:715" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/IntData.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+              <folding>
+                <marker date="1600013323825" expanded="true" signature="78:378" ph="{...}" />
+                <marker date="1600013323825" expanded="true" signature="171:209" ph="{...}" />
+                <marker date="1600013323825" expanded="true" signature="250:287" ph="{...}" />
+                <marker date="1600013323825" expanded="true" signature="340:376" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
   </component>
   <component name="Git.Settings">
@@ -38,11 +74,15 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/CharacterMover.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/IntData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/FloatData.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Assets/Scripts/CharacterMover.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/FloatData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/IntData.cs" />
       </list>
     </option>
   </component>
@@ -58,15 +98,15 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AssemblyExplorer" />
-      <pane id="SolutionExplorer">
-        <option name="show-all-files" value="false" />
-      </pane>
       <pane id="UnityExplorer">
         <option name="show-hidden-items" value="false" />
         <option name="show-project-names" value="true" />
       </pane>
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+      </pane>
       <pane id="FileSystemExplorer" />
+      <pane id="AssemblyExplorer" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -115,11 +155,12 @@
       <workItem from="1598657709968" duration="32232000" />
       <workItem from="1599087296473" duration="1351000" />
       <workItem from="1599707255106" duration="1443000" />
+      <workItem from="1599971930492" duration="149000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35026000" />
+    <option name="totallyTimeSpent" value="35175000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -131,10 +172,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="556" y="98" width="817" height="570" extended-state="0" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21928665" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12859304" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Capture Tool" order="3" />
@@ -182,7 +223,7 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/CharacterMover.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1005">
+        <state relative-caret-position="945">
           <caret line="67" column="5" selection-start-line="67" selection-start-column="5" selection-end-line="67" selection-end-column="5" />
           <folding>
             <marker date="1599714581254" expanded="true" signature="112:1658" ph="{...}" />
@@ -193,6 +234,37 @@
             <marker date="1599714581254" expanded="true" signature="1188:1259" ph="{...}" />
             <marker date="1599714581254" expanded="true" signature="1338:1413" ph="{...}" />
             <marker date="1599714581254" expanded="true" signature="1568:1656" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/FloatData.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="42" selection-start-line="42" selection-end-line="42" />
+          <folding>
+            <marker date="1599971964157" expanded="true" signature="79:761" ph="{...}" />
+            <marker date="1599971964157" expanded="true" signature="184:221" ph="{...}" />
+            <marker date="1599971964157" expanded="true" signature="264:300" ph="{...}" />
+            <marker date="1599971964157" expanded="true" signature="356:500" ph="{...}" />
+            <marker date="1599971964157" expanded="true" signature="385:428" ph="{...}" />
+            <marker date="1599971964157" expanded="true" signature="441:494" ph="{...}" />
+            <marker date="1599971964157" expanded="true" signature="563:759" ph="{...}" />
+            <marker date="1599971964157" expanded="true" signature="599:652" ph="{...}" />
+            <marker date="1599971964157" expanded="true" signature="665:715" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/IntData.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+          <folding>
+            <marker date="1600013323825" expanded="true" signature="78:378" ph="{...}" />
+            <marker date="1600013323825" expanded="true" signature="171:209" ph="{...}" />
+            <marker date="1600013323825" expanded="true" signature="250:287" ph="{...}" />
+            <marker date="1600013323825" expanded="true" signature="340:376" ph="{...}" />
           </folding>
         </state>
       </provider>
