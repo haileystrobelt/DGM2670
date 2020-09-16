@@ -5,8 +5,8 @@ public class Vector3Data : ScriptableObject
 {
     public Vector3 value;
 
-    public void UpdateValue(Transform transformObj)
+    public void SetValueFromTransform(Vector3 obj)
     {
-        value = transformObj.localPosition;
+        value = obj;
     }
 }
